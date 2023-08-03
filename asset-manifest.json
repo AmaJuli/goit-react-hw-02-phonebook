@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AmaJuli/goit-react-hw-02-phonebook/static/css/main.4e682972.css",
+    "main.js": "/AmaJuli/goit-react-hw-02-phonebook/static/js/main.0ae90cd1.js",
+    "index.html": "/AmaJuli/goit-react-hw-02-phonebook/index.html",
+    "main.4e682972.css.map": "/AmaJuli/goit-react-hw-02-phonebook/static/css/main.4e682972.css.map",
+    "main.0ae90cd1.js.map": "/AmaJuli/goit-react-hw-02-phonebook/static/js/main.0ae90cd1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e682972.css",
+    "static/js/main.0ae90cd1.js"
+  ]
+}
